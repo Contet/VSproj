@@ -1,0 +1,14 @@
+B:\VSproj\bin\Debug\net9.0\VSproj.exe
+B:\VSproj\bin\Debug\net9.0\VSproj.deps.json
+B:\VSproj\bin\Debug\net9.0\VSproj.runtimeconfig.json
+B:\VSproj\bin\Debug\net9.0\VSproj.dll
+B:\VSproj\bin\Debug\net9.0\VSproj.pdb
+B:\VSproj\obj\Debug\net9.0\VSproj.GeneratedMSBuildEditorConfig.editorconfig
+B:\VSproj\obj\Debug\net9.0\VSproj.AssemblyInfoInputs.cache
+B:\VSproj\obj\Debug\net9.0\VSproj.AssemblyInfo.cs
+B:\VSproj\obj\Debug\net9.0\VSproj.csproj.CoreCompileInputs.cache
+B:\VSproj\obj\Debug\net9.0\VSproj.dll
+B:\VSproj\obj\Debug\net9.0\refint\VSproj.dll
+B:\VSproj\obj\Debug\net9.0\VSproj.pdb
+B:\VSproj\obj\Debug\net9.0\VSproj.genruntimeconfig.cache
+B:\VSproj\obj\Debug\net9.0\ref\VSproj.dll
